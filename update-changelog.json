@@ -1,10 +1,7 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": "2",
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+    "versionCode":VERSION_CODE,                    //int
+    "versionName":"VERSION_NAME",                  //string
+    "contentText":"DIALOG_CONTENT_TEXT",           //string
+    "minSupport":MINIMUM_SUPPORTED_VERSION_CODE,   //int
+    "url":"APP_DOWNLOAD_URL"                       //string
 }
