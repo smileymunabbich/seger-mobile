@@ -1,7 +1,7 @@
 {
-    "versionCode":VERSION_CODE,                    //int
-    "versionName":"VERSION_NAME",                  //string
-    "contentText":"DIALOG_CONTENT_TEXT",           //string
-    "minSupport":MINIMUM_SUPPORTED_VERSION_CODE,   //int
-    "url":"APP_DOWNLOAD_URL"                       //string
+    "versionCode":3,
+    "versionName":"1.0.2",                  
+    "contentText":"DIALOG_CONTENT_TEXT",           
+    "minSupport":21,   
+    "url":"https://github.com/smileymunabbich/seger-mobile/releases"                       
 }
