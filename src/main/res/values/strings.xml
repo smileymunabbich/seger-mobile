@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Seger Mobile</string>
+    <string name="url_link">https://absensi.perumdaseger.com/web#home</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="nextOnBoarding">Selanjutnya</string>
+    <string name="startOnBoarding">Lanjutkan</string>
+
+    <string name="update_message">Untuk kenyamanan pengguna, mohon perbarui aplikasi ke versi terbaru </string>
+    <string name="update_title">Pembaruan Tersedia!</string>
+    <string name="update_button">PERBARUI SEKARANG</string>
+    <string name="currentVerCode">Versi Aplikasi : </string>
+
+    <string name="GpsDisableNotification">Lokasi anda sedang tidak aktif. Aktifkan sekarang!</string>
+    <string name="buttonYes">Ya</string>
+    <string name="GeoLocationNotification">Mohon untuk mengaktifkan izin Lokasi agar aplikasi berjalan lancar</string>
+
+    <string name="onboardTitleOne">Seger Mobile</string>
+    <string name="onboardDescOne">Aplikasi mobile untuk efisiensi kerja</string>
+
+    <string name="onboardTitleTwo">Absensi Online</string>
+    <string name="onboardDescTwo">Absensi secara online menggunakan swafoto dan lokasi yang teridentifikasi secara realtime.</string>
+
+    <string name="onboardTitleThree">Pengajuan Izin dan Cuti</string>
+    <string name="onboardDescThree">Mengajukan izin dan cuti secara paperless, tanpa ribet. cuti dan izin menjadi lebih mudah dan efisien.</string>
+
+    <string name="onboardTitleFour">Penjadwalan Shift</string>
+    <string name="onboardDescFour">Kemudahan dalam mengatur dan mengelola jadwal kerja, baik secara harian maupun shift.</string>
+
+    <string name="onboardTitleFive">Hitung dan Bayar Gaji</string>
+    <string name="onboardDescFive">Proses penggajian yang jauh lebih praktis, untuk proses penggajian yang lebih transparan yang memuat informasi rincian gaji.</string>
+
+</resources>

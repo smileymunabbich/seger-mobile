@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404922804827",
+    "project_id": "seger-mobile",
+    "storage_bucket": "seger-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404922804827:android:0243c1a0f3c9476107ad7e",
+        "android_client_info": {
+          "package_name": "com.seger.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404922804827-ucn3kc683mv16vb6h9h1u78v1afb2ljs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvcSSiHWpOt2RbSKnDwZpF3vh7vY2GvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404922804827-ucn3kc683mv16vb6h9h1u78v1afb2ljs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
